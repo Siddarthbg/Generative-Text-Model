@@ -20,4 +20,4 @@ One of the notable features of this script is its ability to **generate text aut
 The script is also designed with **command-line flexibility**, allowing users to specify training or generation modes, model parameters, prompt input, and output behavior. It can use sample texts or load data from a user-provided file. Trained models can be saved and reused, making the system practical for experimentation and reuse.
 Overall, this project offers a clear, modular implementation of a transformer-based generative model suitable for educational purposes, small-scale experiments, and as a foundation for more advanced NLP applications. It demonstrates key principles of modern language modeling, including sequence modeling, attention, autoregressive generation, and custom tokenization.
 
-# OUTPUT:
+# OUTPUT:![Image](https://github.com/user-attachments/assets/421eb7f1-b0f2-42d8-84e5-bc7263252224)
